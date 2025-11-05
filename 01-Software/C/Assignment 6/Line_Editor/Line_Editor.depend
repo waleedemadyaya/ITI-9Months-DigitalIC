@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762207327 source:f:\iti 9 months\sw\c programming language\codes\assignment 6\line_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

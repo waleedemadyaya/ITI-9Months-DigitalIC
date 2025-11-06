@@ -1,0 +1,15 @@
+|BCD_COUNTER
+Q0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+clk => inst.ACLR
+clk => inst1.ACLR
+clk => inst3.ACLR
+clk => inst2.ACLR
+CLRN => inst.CLK
+CLRN => inst1.CLK
+CLRN => inst3.CLK
+CLRN => inst2.CLK
+Q1 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Q2 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+Q3 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+

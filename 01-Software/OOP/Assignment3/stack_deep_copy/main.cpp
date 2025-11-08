@@ -12,15 +12,71 @@ public:
     stack();
     stack(int size);
     ~stack();
+    stack (const stack &temp_stack);
     int peak();
     void push(int value);
     int pop();
     int is_empty();
     int is_full();
     stack reverse_stack(); // returns a new reversed stack
-    void display_stack();
+    friend void display_stack(stack temp);
 };
 
+ main()
+{
+///************* Copy Ctor Case(1): Pass by value to function ********************
+/*
+    stack S1;
+
+    S1.push(10);
+    S1.push(20);
+    S1.push(30);
+    S1.push(40);
+
+    display_stack(S1);
+
+    cout<<"Num = "<<S1.pop()<<endl;
+    cout<<"Num = "<<S1.pop()<<endl;
+
+*/
+///************* Copy Ctor Case(2): Return by value from function ********************
+/*
+    stack S1;
+
+    S1.push(10);
+    S1.push(20);
+    S1.push(30);
+    S1.push(40);
+
+    stack SS = S1.reverse_stack();
+    cout << SS.pop() << endl;
+*/
+
+///************* Copy Ctor Case(3): Create obj in terms of another obj "Explicitly" ********************
+
+    stack S1;
+
+    S1.push(10);
+    S1.push(20);
+    S1.push(30);
+    S1.push(40);
+
+    stack S3 ( S1 );
+
+    for(int i=0; i<10; i++)
+        cout << S3.pop() << endl;
+
+
+    for(int i=0; i<10; i++)
+        S3.push(-1);
+
+    cout<<"Num = "<<S1.pop()<<endl;
+    cout<<"Num = "<<S1.pop()<<endl;
+
+}
+
+
+/*
 int main()
 {
     cout << "Enter stack size: ";
@@ -70,14 +126,14 @@ int main()
         {
             stack stack_reverse = my_stack.reverse_stack();
             cout << "Reversed stack: ";
-            stack_reverse.display_stack();
+            display_stack ( stack_reverse );
             cout << "Original stack: ";
-            my_stack.display_stack();
+            display_stack ( my_stack );
             break;
         }
         case 5:
         {
-            my_stack.display_stack();
+            display_stack ( my_stack );
             break;
         }
         case 6:
@@ -95,24 +151,30 @@ int main()
 
     return 0;
 }
+*/
 
 // Constructors & Destructor
 stack::stack()
 {
-    max_size = 10;
+    cout << "Parameter less constructor is called!" << endl;
+    (this -> max_size) = 10;
     top = -1;
-    stack_array = new int[max_size];
+    stack_array = new int[(this -> max_size)];
 }
 
 stack::stack(int size)
 {
-    max_size = size;
+    cout << "Parameterized constructor is called!" << endl;
+    (this -> max_size) = size;
     top = -1;
-    stack_array = new int[max_size];
+    stack_array = new int[(this -> max_size)];
 }
 
 stack::~stack()
 {
+    cout << " Destructor is called! " << endl;
+    for (int i = 0 ; i < (this -> max_size) ; i++)
+        this -> stack_array[i] = -1;
     delete[] stack_array;
 }
 
@@ -144,11 +206,12 @@ int stack::pop()
 {
     if (!is_empty())
     {
+        ///cout << stack_array[top] << endl;
         return stack_array[top--];
     }
     else
     {
-        cout << "Stack is empty" << endl;
+        ///cout << "Stack is empty" << endl;
         return -1;
     }
 }
@@ -160,15 +223,15 @@ int stack::is_empty()
 
 int stack::is_full()
 {
-    return top == max_size - 1;
+    return top == (this -> max_size) - 1;
 }
 
 
 stack stack::reverse_stack()
 {
-    stack reversed(max_size);
+    stack reversed((this -> max_size));
 
-    if (is_empty())
+    if (this -> is_empty())
         return reversed;
 
     // Copy and reverse
@@ -180,31 +243,33 @@ stack stack::reverse_stack()
     return reversed;
 }
 
-void stack::display_stack()
+void display_stack(stack temp)
 {
-    if (is_empty())
+    if (temp.is_empty())
     {
         cout << "Stack is empty" << endl;
         return;
     }
 
     cout << "Stack contents (top to bottom): ";
-    for (int i = top; i >= 0; i--)
+    for (int i = temp.top; i >= 0; i--)
     {
-        cout << stack_array[i] << " ";
+        cout << temp.stack_array[i] << " ";
     }
     cout << endl;
 }
 
 
-stack(const stack &st)
+stack::stack(const stack &temp_stack)
 {
-    this -> top = st.top;
-    this -> max_size = st.max_size;
-    ///this -> stack_array = st.stack_array;   /// not valid memory wize copying
-    this -> stack_array = new int[st.max_size]; 
+    cout << "Deep copy constructor is called" << endl;
+    this -> top = temp_stack.top;
+    this -> max_size = temp_stack.max_size;
+    ///this -> temp_stackack_array = temp_stack.temp_stackack_array;   /// not valid memory wize copying
+    this -> stack_array = new int[temp_stack.max_size];
     for (int i = 0; i <= top; i++)
     {
-        this -> stack_array[i] = st.stack_array[i];
-    } 
+        this -> stack_array[i] = temp_stack.stack_array[i];
+    }
 }
+

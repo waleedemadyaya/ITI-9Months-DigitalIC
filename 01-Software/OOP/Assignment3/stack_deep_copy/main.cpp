@@ -37,8 +37,8 @@ public:
 
     cout<<"Num = "<<S1.pop()<<endl;
     cout<<"Num = "<<S1.pop()<<endl;
-
 */
+
 ///************* Copy Ctor Case(2): Return by value from function ********************
 /*
     stack S1;

@@ -111,7 +111,7 @@ int main()
     return 0;
 }
 
-// ======================= Implementations =========================
+// ======================= Implementations of complex methods =========================
 
 complex::complex (int r , int i){
     (this -> real) = r;

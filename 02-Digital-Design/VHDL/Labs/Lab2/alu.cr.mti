@@ -1,0 +1,62 @@
+{F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide2.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide2.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity alu_wide2
+-- Compiling architecture wide2 of alu_wide2
+-- Loading entity alu_carry
+
+} {} {}} {F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2\alu_tb.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Loading package pack_a
+-- Compiling entity alu_tb
+-- Compiling architecture tb of alu_tb
+-- Loading entity alu
+
+} {} {}} {F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_carry_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_carry_tb.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity tb_alu_variable
+-- Compiling architecture behavior of tb_alu_variable
+
+} {} {}} {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_variable_width.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_variable_width.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity alu_variable
+-- Compiling architecture alu_variable of alu_variable
+
+} {} {}} {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_carry.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_carry.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity alu_carry
+-- Compiling architecture behave of alu_carry
+
+} {} {}} {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Compiling package pack_a
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Loading package pack_a
+-- Compiling entity alu
+-- Compiling architecture alu of alu
+
+} {} {}} {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide1.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide1.vhd}
+QuestaSim vcom 10.0b Compiler 2011.05 May  5 2011
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package NUMERIC_BIT
+-- Compiling entity alu_wide1
+-- Compiling architecture wide1 of alu_wide1
+
+} {} {}}

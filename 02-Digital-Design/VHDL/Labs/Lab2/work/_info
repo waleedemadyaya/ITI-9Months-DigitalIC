@@ -1,0 +1,3185 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs
+T_opt
+V<m3:oK983Ro7CYKORhgNR2
+04 15 8 work tb_alu_variable behavior 1
+=1-b4a9fccc4ad6-691367c9-1d5-12ec
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.0b;49
+Z1 dF:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs
+Ealu
+Z2 w1257987224
+Z3 DPx4 work 6 pack_a 0 22 7<GF5:^MC3b1b6kO1NRB<2
+Z4 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z5 DPx4 ieee 11 numeric_bit 0 22 1L@7D=<_2VRjJ3W7DdCY?1
+Z6 dF:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2
+Z7 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu.vhd
+Z8 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu.vhd
+l0
+L13
+VSz>E8=keoDb@Qgj8_2cam0
+Z9 OE;C;10.0b;49
+32
+Z10 !s108 1762876647.476000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu.vhd|
+Z12 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu.vhd|
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+!s100 2ikl3m:H^?OIEdz_J0XPF2
+Aalu
+R3
+R4
+R5
+Z15 DEx4 work 3 alu 0 22 Sz>E8=keoDb@Qgj8_2cam0
+32
+l20
+L19
+VamjQk9WbQ8GdQ8PI;RS932
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 7]44B3m>>OTLG=LX_f2m`1
+Ealu_carry
+Z16 w1762878390
+R4
+R5
+R6
+Z17 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_carry.vhd
+Z18 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_carry.vhd
+l0
+L10
+VGANabC62F`QTmR@[T>D0Q3
+R9
+32
+Z19 !s108 1762878393.430000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_carry.vhd|
+Z21 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_carry.vhd|
+R13
+R14
+!s100 @iSjk4ES>kMO^PFibJ7iK3
+Abehave
+R4
+R5
+Z22 DEx4 work 9 alu_carry 0 22 GANabC62F`QTmR@[T>D0Q3
+l22
+L21
+V`]lKgSc@Jh5RRV5YB[7Zc3
+R9
+32
+R19
+R20
+R21
+R13
+R14
+!s100 WDB1nlDiNWdI:M9Y_B_KX2
+Ealu_tb
+Z23 w1762882929
+R3
+R4
+R5
+R6
+Z24 8F:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2\alu_tb.vhd
+Z25 FF:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2\alu_tb.vhd
+l0
+L11
+VAYo9co5X_oPQZV_kRDYUa0
+!s100 Ye?oYgN0K8QggLfzJ5Veg3
+R9
+32
+Z26 !s108 1762884225.273000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2\alu_tb.vhd|
+Z28 !s107 F:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2\alu_tb.vhd|
+R13
+R14
+Atb
+R15
+R3
+R4
+R5
+Z29 DEx4 work 6 alu_tb 0 22 AYo9co5X_oPQZV_kRDYUa0
+l23
+L14
+Z30 VaYGgff<4cMoAHTA]h2TLQ3
+Z31 !s100 c<]8k_KKk]Y8b@Od<B@172
+R9
+32
+R26
+R27
+R28
+R13
+R14
+Ealu_variable
+Z32 w1257987826
+R4
+R5
+R6
+Z33 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_variable_width.vhd
+Z34 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_variable_width.vhd
+l0
+L8
+Vn05F1]fOYHQce51KMVdc:1
+R9
+32
+Z35 !s108 1762876647.900000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_variable_width.vhd|
+Z37 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_variable_width.vhd|
+R13
+R14
+!s100 gln4:FRe]=;U>B4UaJTO;3
+Aalu_variable
+R4
+R5
+DEx4 work 12 alu_variable 0 22 n05F1]fOYHQce51KMVdc:1
+l16
+L15
+Vk]hW0AzO9BRU_6:HQ]e=[3
+R9
+32
+R35
+R36
+R37
+R13
+R14
+!s100 R5dWYRYfaKOMoj>eMo<k]2
+Ealu_wide1
+Z38 w1762878549
+R4
+R5
+R6
+Z39 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide1.vhd
+Z40 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide1.vhd
+l0
+L8
+VUNo?9hKC7n@0fKbiZ0oFS3
+R9
+32
+Z41 !s108 1762878552.259000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide1.vhd|
+Z43 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide1.vhd|
+R13
+R14
+!s100 ?ooFE8K>Ci=f9>Wj1Z0:<0
+Awide1
+R4
+R5
+DEx4 work 9 alu_wide1 0 22 UNo?9hKC7n@0fKbiZ0oFS3
+l31
+L18
+VU0[37JRPFZACV9[6QBGzO2
+R9
+32
+R41
+R42
+R43
+R13
+R14
+!s100 1kD7Z:=HUo:WE]in9nf7o1
+Ealu_wide2
+Z44 w1305933491
+R4
+R5
+R6
+Z45 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide2.vhd
+Z46 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide2.vhd
+l0
+L8
+V??JASUg=mOI6Ta@c?[3if0
+R9
+32
+Z47 !s108 1762876648.195000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide2.vhd|
+Z49 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/alu_wide2.vhd|
+R13
+R14
+!s100 0oogKNC:;;fZb8aVc5cgM1
+Awide2
+R22
+R4
+R5
+DEx4 work 9 alu_wide2 0 22 ??JASUg=mOI6Ta@c?[3if0
+l27
+L16
+V_RQ5T2g?9XR[2cJk_>lfD1
+R9
+32
+R47
+R48
+R49
+R13
+R14
+!s100 PNTWMD4YFgLlHdi4dVSUT0
+Eand2
+Z50 w1258145080
+R6
+Z51 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and4_structural.vhd
+Z52 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and4_structural.vhd
+l0
+L6
+ViWbHKbIWA:Sn?Dd[ziDo^2
+R9
+32
+Z53 !s108 1762876310.267000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and4_structural.vhd|
+Z55 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and4_structural.vhd|
+R13
+R14
+!s100 >aiifL_nh0hdg]8B`2C5?2
+Asimple
+Z56 DEx4 work 4 and2 0 22 iWbHKbIWA:Sn?Dd[ziDo^2
+l13
+L12
+V>lXJFiX::>9bU@6Oj1TCm1
+R9
+32
+R53
+R54
+R55
+R13
+R14
+!s100 TlMJUz]OVz4>=T@Hm0[HK0
+Aand2w
+Z57 DEx4 work 4 and2 0 22 ;;QQ@LYkCYi2;efZK2hIK2
+l11
+L10
+VT]8iZ=>WAPM5JcA<HoIXW3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_wait.vhd
+w1590299456
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_wait.vhd
+!s100 H^[H]2CW:59S9F5h_^C]z1
+!s108 1762876310.035000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_wait.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_wait.vhd|
+Aand2
+R57
+l11
+L10
+VHoBcM@9<2z4bK1Dl6gehS0
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_sensitivity.vhd
+w1590299440
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_sensitivity.vhd
+!s100 UHg==ZoSe]4fB86PF?1=20
+!s108 1762876309.822000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_sensitivity.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and2_sensitivity.vhd|
+Aload_dep
+DEx4 work 4 and2 0 22 N?K`=T^@Y@S<TO`im83kW2
+l14
+L12
+VCW]OW14FIoffiP`LW<OXo3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_rise.vhd
+w1257906796
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_rise.vhd
+!s100 Je1gTmcXIoN6]XeiAW8[@3
+!s108 1762876309.632000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_rise.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_rise.vhd|
+Abasic
+Z58 DEx4 work 4 and2 0 22 ^NnR7mCT>_ScCj944zjUX2
+l17
+L15
+ViYTHJ]dFof><Bh25:1fm;0
+R9
+32
+Z59 !s108 1762876309.166000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_loading.vhd|
+Z61 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_loading.vhd|
+R13
+R14
+Z62 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_loading.vhd
+Z63 w1301879343
+Z64 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/and_loading.vhd
+!s100 WinMX9@JC3_5dJkj]C1;Z0
+Eand2_std
+Z65 w1587781262
+R4
+Z66 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R6
+Z67 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate.vhd
+Z68 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate.vhd
+l0
+L7
+V@2l<H8]LMnCn12VH36<EH1
+R9
+32
+Z69 !s108 1762876328.567000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate.vhd|
+Z71 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate.vhd|
+R13
+R14
+!s100 8G`@ahgK>H;6JbO@dCLMh2
+Aand2_std
+R4
+R66
+Z72 DEx4 work 8 and2_std 0 22 @2l<H8]LMnCn12VH36<EH1
+l13
+L13
+VL6=0d_nl1PCajVJePUJ0b3
+R9
+32
+R69
+R70
+R71
+R13
+R14
+!s100 UAFznSJIFSNb2Kz1Vo9Mh3
+Eand4
+R50
+R6
+R51
+R52
+l0
+L17
+VL>jDci9Ja7B`NXJ9AXl_90
+R9
+32
+R53
+R54
+R55
+R13
+R14
+!s100 ;J<FB4jfAVQFS<>0B0IeS1
+Astruct
+R56
+DEx4 work 4 and4 0 22 L>jDci9Ja7B`NXJ9AXl_90
+l30
+L22
+Va6I3Cl?_Mcoe3EUPg6HC:0
+R9
+32
+R53
+R54
+R55
+R13
+R14
+!s100 QP2AfdX8g@=amOnQ_ae<e2
+Pand_std_package
+R4
+R66
+R65
+R6
+R67
+R68
+l0
+L22
+V_L89dffPElfGmb=8ZB[S=0
+R9
+32
+R69
+R70
+R71
+R13
+R14
+!s100 QHUoA55>dLBA1QOkDjo8?2
+Pandpackage
+Z73 w1590305772
+R6
+Z74 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mixed.vhd
+Z75 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mixed.vhd
+l0
+L6
+VAdWG[cUR9@]iP>Z_jna7c2
+R9
+32
+Z76 !s108 1762876324.346000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mixed.vhd|
+Z78 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mixed.vhd|
+R13
+R14
+!s100 80Go@W8mGi4<_FT;JRjm43
+Eangle
+Z79 w1257946960
+Z80 DPx4 work 22 const_johnson_encoding 0 22 G>H;5baX3Q?j]K0fI34^03
+Z81 DPx4 ieee 11 numeric_std 0 22 k7B<7GmYYYmX;0X]XHFD10
+R4
+R66
+R6
+Z82 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding_angle.vhd
+Z83 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding_angle.vhd
+l0
+L10
+VC9f3?z@ISl_G9VFLD<;k73
+R9
+32
+Z84 !s108 1762876324.180000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding_angle.vhd|
+Z86 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding_angle.vhd|
+R13
+R14
+!s100 E]^zYbH`EiZj:4[SCQAP<0
+Aangle
+R80
+R81
+R4
+R66
+DEx4 work 5 angle 0 22 C9f3?z@ISl_G9VFLD<;k73
+l19
+L15
+VeF;NiLcb4FQzkiU`4]>SC0
+R9
+32
+R84
+R85
+R86
+R13
+R14
+!s100 48XDmU^h@2U@Em@;LQ?_Q3
+Ebin2gray
+Z87 w1261264768
+R6
+Z88 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/bin2gray.vhd
+Z89 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/bin2gray.vhd
+l0
+L1
+V8kHg=gJ?@DO60H`cDGT;43
+R9
+32
+Z90 !s108 1762876311.917000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/bin2gray.vhd|
+Z92 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/bin2gray.vhd|
+R13
+R14
+!s100 DMZ4c4`:f2Ti3clC990e?0
+Agen_process
+DEx4 work 8 bin2gray 0 22 8kHg=gJ?@DO60H`cDGT;43
+l8
+L7
+V>AmABJKkC<^HYR^<1PK062
+R9
+32
+R90
+R91
+R92
+R13
+R14
+!s100 VZIkVi7[K;7YXz1_2@BMd2
+Ebin_counter
+Z93 w1369100559
+R81
+R4
+R66
+R6
+Z94 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_binary.vhd
+Z95 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_binary.vhd
+l0
+L10
+V8?2U7HOMkF7Zc6RS>dc>40
+R9
+32
+Z96 !s108 1762876315.070000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_binary.vhd|
+Z98 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_binary.vhd|
+R13
+R14
+!s100 XXl43DJYjHfQHW2DiHD]42
+Abehav
+R81
+R4
+R66
+Z99 DEx4 work 11 bin_counter 0 22 8?2U7HOMkF7Zc6RS>dc>40
+l20
+L18
+VCgIZ<WP15V?iQmkbdCBG30
+R9
+32
+R96
+R97
+R98
+R13
+R14
+!s100 ?>[lfTd1Z3E9W`0Hc:AT73
+Ec_mult
+Z100 w1462579981
+Z101 DPx4 work 8 my_types 0 22 61P0kXd0NWo9JVGkBa4jZ1
+R6
+Z102 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex.vhd
+Z103 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex.vhd
+l0
+L13
+VYek1alkOD7z]=AeEoU:7U0
+R9
+32
+Z104 !s108 1762876313.910000
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex.vhd|
+Z106 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex.vhd|
+R13
+R14
+!s100 RYH;g8G`CCVZZReXeJBPR2
+Ac_mult
+R101
+Z107 DEx4 work 6 c_mult 0 22 Yek1alkOD7z]=AeEoU:7U0
+l19
+L18
+V60oSXVz;1V]]L3XX:T_P32
+R9
+32
+R104
+R105
+R106
+R13
+R14
+!s100 G<?mhPX9zbKDNIzfXG_;l1
+Ecell
+Z108 w1257909660
+R4
+R66
+R6
+Z109 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_simple.vhd
+Z110 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_simple.vhd
+l0
+L8
+VW1DHJKiDa@BRBQM_`Hg?R3
+R9
+32
+Z111 !s108 1762876313.491000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_simple.vhd|
+Z113 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_simple.vhd|
+R13
+R14
+!s100 7`AiUn2[Ec=WS:]hI`W6b0
+Awires
+R4
+R66
+DEx4 work 4 cell 0 22 W1DHJKiDa@BRBQM_`Hg?R3
+l16
+L14
+VdPgWh>f`1BaYf@<DWh5km3
+R9
+32
+R111
+R112
+R113
+R13
+R14
+!s100 L@1K>i@aNcanfed3MK41z0
+Ecircuit
+R73
+Z114 DPx4 work 10 andpackage 0 22 AdWG[cUR9@]iP>Z_jna7c2
+R6
+R74
+R75
+l0
+L14
+VTD:z8LdNIL_bcJlIRW;Q63
+R9
+32
+R76
+R77
+R78
+R13
+R14
+!s100 >BK_hZMDaXiPXZBK<6jGc2
+Amixed
+R56
+R114
+DEx4 work 7 circuit 0 22 TD:z8LdNIL_bcJlIRW;Q63
+l23
+L19
+V^??mzV8[SV0HM?XBXf8D30
+R9
+32
+R76
+R77
+R78
+R13
+R14
+!s100 eKe^4c6O=iT2;a7gE>nZX2
+Amodel
+DEx4 work 7 circuit 0 22 i_aaVRJlR2@R3[hW^G6K<0
+l10
+L10
+V6EP`LQ3WH;VPnCGJDkjFK3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn2.vhd
+w1111356034
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn2.vhd
+!s108 1762876322.202000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn2.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn2.vhd|
+!s100 V6EJM@TmW>6]F?4V@EiFe3
+Pcollect
+Z115 w1587786666
+R6
+Z116 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn3.vhd
+Z117 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn3.vhd
+l0
+L5
+V3fkiz4dYJhYF7BlVW4o6k2
+R9
+32
+Z118 !s108 1762876312.467000
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn3.vhd|
+Z120 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn3.vhd|
+R13
+R14
+!s100 ?j_gM0CV4AMLFT5BP:cEL3
+Ecomparator
+Z121 w1590304168
+R4
+R66
+R6
+Z122 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/comparator.vhd
+Z123 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/comparator.vhd
+l0
+L8
+V=MK_XZW1B?LJn1?lRGACB1
+R9
+32
+Z124 !s108 1762876313.710000
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/comparator.vhd|
+Z126 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/comparator.vhd|
+R13
+R14
+!s100 Q3SZTWO4hF4XRIV2NQg?51
+Abehavioral
+R4
+R66
+DEx4 work 10 comparator 0 22 =MK_XZW1B?LJn1?lRGACB1
+l16
+L15
+VR_HYOgf5eWWTX34Ko^@Nn3
+R9
+32
+R124
+R125
+R126
+R13
+R14
+!s100 ;=`nWEBP8K>ZOZQ@iT[eO3
+Ecompare
+Z127 w1111356758
+R6
+Z128 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn4.vhd
+Z129 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn4.vhd
+l0
+L5
+VKIz;Ol1:h<A:;Silj5Pe@0
+R9
+32
+Z130 !s108 1762876322.611000
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn4.vhd|
+Z132 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn4.vhd|
+R13
+R14
+!s100 bWk:5RG>a2h?M:1<gL;0]0
+Atest
+DEx4 work 7 compare 0 22 KIz;Ol1:h<A:;Silj5Pe@0
+l11
+L10
+Vg3a^nlET;bQ?`3NGjc_Nn1
+R9
+32
+R130
+R131
+R132
+R13
+R14
+!s100 UEK0Lg]6W?iYeD<T87;Ce1
+Ecompress
+Z133 w1108039196
+R6
+Z134 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/compress.vhd
+Z135 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/compress.vhd
+l0
+L6
+V`Rk[V:H=KGVPRCIa48Ulm0
+R9
+32
+Z136 !s108 1762876314.392000
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/compress.vhd|
+Z138 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/compress.vhd|
+R13
+R14
+!s100 G?80;KLIg<aP6CXIY=@<a0
+Abit_wise
+DEx4 work 8 compress 0 22 `Rk[V:H=KGVPRCIa48Ulm0
+l12
+L11
+V@SP4VT4IME9ABIgh;en;;1
+R9
+32
+R136
+R137
+R138
+R13
+R14
+!s100 67;l?@1S>;hbKH@FbB=BV0
+Econdition
+Z139 w1108041194
+R4
+R66
+R6
+Z140 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_conditional.vhd
+Z141 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_conditional.vhd
+l0
+L8
+V_=`bPdeY16Oc3=9@A?A@C1
+R9
+32
+Z142 !s108 1762876313.271000
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_conditional.vhd|
+Z144 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/combinational_conditional.vhd|
+R13
+R14
+!s100 ?VLK6NGR<PcXLjfmGZhlb1
+Atest
+R4
+R66
+DEx4 work 9 condition 0 22 _=`bPdeY16Oc3=9@A?A@C1
+l14
+L13
+VTQ=RLFSVLA?b5P_i;U_zV1
+R9
+32
+R142
+R143
+R144
+R13
+R14
+!s100 lGHBZ>[?6jTn>jW0V^XhE0
+Pconst_johnson_encoding
+R81
+R4
+R66
+w1257946228
+R6
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding.vhd
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding.vhd
+l0
+L10
+VG>H;5baX3Q?j]K0fI34^03
+R9
+32
+R13
+R14
+!s100 BhjLKa^zDB=i9MQQLE]d00
+!s108 1762876324.026000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/johnson_encoding.vhd|
+Pconvertpackage
+R4
+R5
+Z145 w1267070642
+R6
+Z146 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/natural2unsigned.vhd
+Z147 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/natural2unsigned.vhd
+l0
+L9
+VD9HAa>f=;PXQ[3HP_93463
+R9
+32
+b1
+Z148 !s108 1762876325.313000
+Z149 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/natural2unsigned.vhd|
+Z150 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/natural2unsigned.vhd|
+R13
+R14
+!s100 AQo<na<czQTjU@Gk3]3TQ3
+Bbody
+DPx4 work 14 convertpackage 0 22 D9HAa>f=;PXQ[3HP_93463
+R4
+R5
+l0
+L13
+V^dHQ<FW<QW1mAT>gESD[^0
+R9
+32
+R148
+R149
+R150
+R13
+R14
+nbody
+!s100 0^cHf9fA@>W;>ZR7>T;`m1
+Ecounter
+w1291691036
+R4
+R66
+R6
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ripple_counter.vhd
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ripple_counter.vhd
+l0
+L8
+V4OZiHE?:74fb1@hz^53=50
+R9
+32
+R13
+R14
+!s100 @^^H5@EgCJ<S]@zAOeY<j1
+!s108 1762876326.896000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ripple_counter.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ripple_counter.vhd|
+Artl
+R81
+R4
+R66
+DEx4 work 7 counter 0 22 c_@DNlL^[[5Vgjg:S]30X0
+l28
+L15
+V`C@zTk_z<O`:[2NIj3odH0
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/procedure.vhd
+w1257957956
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/procedure.vhd
+!s108 1762876326.258000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/procedure.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/procedure.vhd|
+!s100 7c_BW8AY[iXgEO74G8hGI1
+Abehav
+Z151 DEx4 work 7 counter 0 22 =HCG@:eYLHj^0S5a;<kk@2
+l12
+L11
+VG@17HcKaB[>Ca?8EHa=^]2
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter.vhd
+w1261259912
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter.vhd
+!s108 1762876314.712000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter.vhd|
+!s100 5QPa21KAE44Xkag?oJ>U^1
+Ecounter_advanced
+Z152 w1261261192
+R6
+Z153 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_advanced.vhd
+Z154 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_advanced.vhd
+l0
+L13
+V:lNKUb;lm32JM[B7aHcl?1
+R9
+32
+Z155 !s108 1762876314.890000
+Z156 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_advanced.vhd|
+Z157 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_advanced.vhd|
+R13
+R14
+!s100 cGWo[3[iMHmX]SZTize8z0
+Abehav
+DEx4 work 16 counter_advanced 0 22 :lNKUb;lm32JM[B7aHcl?1
+l19
+L18
+VWY8>^GO:PPY]RGF<bi9Vl1
+R9
+32
+R155
+R156
+R157
+R13
+R14
+!s100 ?WK0b`3J]i^WTTXXkGB<>0
+Ecounter_test
+Z158 w1607744993
+Z159 DPx4 work 14 counterpackage 0 22 AlO<b^]H^mkdNakKJoMEL0
+R6
+Z160 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_tb.vhd
+Z161 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_tb.vhd
+l0
+L15
+V0RD3n]=OKK2P`^jX7T:b60
+R9
+32
+Z162 !s108 1762876315.456000
+Z163 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_tb.vhd|
+Z164 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_tb.vhd|
+R13
+R14
+!s100 gM@T@]Z53UWmfGBa<0:2:2
+Atestbench
+R151
+R159
+DEx4 work 12 counter_test 0 22 0RD3n]=OKK2P`^jX7T:b60
+l23
+L18
+V91YbGMP3G<WKz?_6HGFOg3
+R9
+32
+R162
+R163
+R164
+R13
+R14
+!s100 U?Tco]b]_Q9XlG?NRSPKF0
+Pcounterpackage
+R158
+R6
+R160
+R161
+l0
+L6
+VAlO<b^]H^mkdNakKJoMEL0
+R9
+32
+R162
+R163
+R164
+R13
+R14
+!s100 5GlCHJo<DzalQ10>J2zHo0
+Ect
+Z165 w1111356334
+R6
+Z166 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn3.vhd
+Z167 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn3.vhd
+l0
+L5
+V:Qz_FQz43=Z]I85LGzP::2
+R9
+32
+Z168 !s108 1762876322.402000
+Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn3.vhd|
+Z170 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn3.vhd|
+R13
+R14
+!s100 ia1AmHTk58OiijcRG2Q3B0
+Amodel
+DEx4 work 2 ct 0 22 :Qz_FQz43=Z]I85LGzP::2
+l11
+L10
+V[T5R:3>V49?:i^NLZgJ?43
+R9
+32
+R168
+R169
+R170
+R13
+R14
+!s100 3jhBPf<4k^eCJQ9H^DBaQ0
+Ed_ff
+Z171 w1588835663
+R6
+Z172 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_setup.vhd
+Z173 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_setup.vhd
+l0
+L5
+VGh=4Ak5_P1O0Z?6AFDT0@1
+R9
+32
+Z174 !s108 1762876316.455000
+Z175 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_setup.vhd|
+Z176 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_setup.vhd|
+R13
+R14
+!s100 aM`?cbYM4CT3S43Zz50`]2
+Ad_ff
+Z177 DEx4 work 4 d_ff 0 22 Gh=4Ak5_P1O0Z?6AFDT0@1
+l12
+L12
+VbB[_[gkdk]O<Ik[k9zZ>U2
+R9
+32
+R174
+R175
+R176
+R13
+R14
+!s100 MmLnT_mniR=Y^H27@1IXA2
+Ed_ff_async
+Z178 w1588832505
+R4
+R66
+R6
+Z179 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_async.vhd
+Z180 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_async.vhd
+l0
+L8
+VoelPAOJdL1e7L3?zO>C0]3
+R9
+32
+Z181 !s108 1762876315.959000
+Z182 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_async.vhd|
+Z183 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_async.vhd|
+R13
+R14
+!s100 EGRk3URWcjTnLakLen^im2
+Aasync
+R4
+R66
+DEx4 work 10 d_ff_async 0 22 oelPAOJdL1e7L3?zO>C0]3
+l14
+L14
+Vcj9?<JA6SAMWU453B9lC63
+R9
+32
+R181
+R182
+R183
+R13
+R14
+!s100 WBmdi5LTNZnLn1XBI`N673
+Ed_ff_sel
+Z184 w1588832131
+R4
+R66
+R6
+Z185 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_select.vhd
+Z186 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_select.vhd
+l0
+L8
+VMzE_@OlXW5PagI>Si>OeX2
+R9
+32
+Z187 !s108 1762876316.255000
+Z188 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_select.vhd|
+Z189 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_select.vhd|
+R13
+R14
+!s100 nY7JDmB[>hf=Y>2:PA`NZ3
+Asel
+R4
+R66
+DEx4 work 8 d_ff_sel 0 22 MzE_@OlXW5PagI>Si>OeX2
+l14
+L13
+Vo?CVJaY]IQ@FT^OILU=]Z0
+R9
+32
+R187
+R188
+R189
+R13
+R14
+!s100 8TK_JQK]^<8noONPVmi_;3
+Ed_ff_sync
+Z190 w1588832450
+R4
+R66
+R6
+Z191 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff.sync.vhd
+Z192 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff.sync.vhd
+l0
+L8
+VeYC0]EN5TgzEL;IgUf:a]0
+R9
+32
+Z193 !s108 1762876315.758000
+Z194 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff.sync.vhd|
+Z195 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff.sync.vhd|
+R13
+R14
+!s100 [B]cO`deJl@F5<00;L_J33
+Async
+R4
+R66
+DEx4 work 9 d_ff_sync 0 22 eYC0]EN5TgzEL;IgUf:a]0
+l14
+L14
+V?S7dm@>LPX[J8^m4]f;f30
+R9
+32
+R193
+R194
+R195
+R13
+R14
+!s100 ObUR1=]@IBi5LfXMo@Cm50
+Edecoder
+Z196 w1108035314
+R6
+Z197 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_2.vhd
+Z198 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_2.vhd
+l0
+L5
+VFJMPOU2z]=W`l8dZLU@nj2
+R9
+32
+Z199 !s108 1762876317.891000
+Z200 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_2.vhd|
+Z201 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_2.vhd|
+R13
+R14
+!s100 LjERP0EeR<ATRV9eY[CTz3
+Aanother
+DEx4 work 7 decoder 0 22 FJMPOU2z]=W`l8dZLU@nj2
+l11
+L10
+VkYiCBAf:;Ce94YPbAconh3
+R9
+32
+R199
+R200
+R201
+R13
+R14
+!s100 UBa7S>A8F:EN7L:_7Sdj73
+Abehav
+R4
+R66
+DEx4 work 7 decoder 0 22 RhSM`TS0O:j]m]>=O@fWO0
+l14
+L13
+V1_mP0;TPBi;UXb?N8_hUH1
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder.vhd
+w1108034812
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder.vhd
+!s100 ;[8Q<D6H0_0zWWK;SzaVH1
+!s108 1762876317.702000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder.vhd|
+Adesign
+R4
+R5
+DEx4 work 7 decoder 0 22 i^C3gC>lWggNONRg`k9f31
+l15
+L14
+VljfVn<ne9[_RSI`RAkJ4X1
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn2_3x6_decoder.vhd
+w1421308252
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn2_3x6_decoder.vhd
+!s108 1762876312.312000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn2_3x6_decoder.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn2_3x6_decoder.vhd|
+!s100 YlMVCii4lP2Wih>oa[Id01
+Edemux
+Z202 w1119996550
+R81
+R4
+R66
+R6
+Z203 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/demux.vhd
+Z204 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/demux.vhd
+l0
+L9
+VGzz9CkP@Va0FlL3@1kCBe2
+R9
+32
+Z205 !s108 1762876318.419000
+Z206 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/demux.vhd|
+Z207 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/demux.vhd|
+R13
+R14
+!s100 EPY^`IU;l`I8i3jf_PoM50
+Artl
+R81
+R4
+R66
+DEx4 work 5 demux 0 22 Gzz9CkP@Va0FlL3@1kCBe2
+l16
+L15
+VT5P^n5RYad?MKb@`LnPR81
+R9
+32
+R205
+R206
+R207
+R13
+R14
+!s100 9XfN]iE7a2zO^jnlFgD8T1
+Edff_test
+R171
+R6
+R172
+R173
+l0
+L32
+VeWAEFYdGPKnX49^6dDTHZ2
+R9
+32
+R174
+R175
+R176
+R13
+R14
+!s100 Ni2G]@QB_VmTOj_HjkBmi1
+Atest
+R177
+DEx4 work 8 dff_test 0 22 eWAEFYdGPKnX49^6dDTHZ2
+l46
+L35
+VdAP;M>oUJIPIdDm_[LR0m2
+R9
+32
+R174
+R175
+R176
+R13
+R14
+!s100 jO0ccTBGXK8D6kgkN08oL2
+Edriver
+R65
+Z208 DPx4 work 15 and_std_package 0 22 _L89dffPElfGmb=8ZB[S=0
+R4
+R66
+R6
+R67
+R68
+l0
+L33
+V5Vz0@4BMJNI]MZ6b[eBg@0
+R9
+32
+R69
+R70
+R71
+R13
+R14
+!s100 ;RfkTcfTP9Eo8>^WdNVA53
+Atri
+R72
+R208
+R4
+R66
+DEx4 work 6 driver 0 22 5Vz0@4BMJNI]MZ6b[eBg@0
+l41
+L38
+V_Lgb@IG_<<;?XOMgo@F2K3
+R9
+32
+R69
+R70
+R71
+R13
+R14
+!s100 ]z<4DQMjka`ZOYR@:BZPb0
+Edual_port_ram
+Z209 w1591277139
+R81
+R4
+R66
+R6
+Z210 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_dual_port.vhd
+Z211 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_dual_port.vhd
+l0
+L9
+VBZm?9[loS7jB@6?;f@X2@2
+R9
+32
+Z212 !s108 1762876326.481000
+Z213 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_dual_port.vhd|
+Z214 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_dual_port.vhd|
+R13
+R14
+!s100 ORQ=QJ@ed>@>`DQ11[m8<3
+Abehav
+R81
+R4
+R66
+DEx4 work 13 dual_port_ram 0 22 BZm?9[loS7jB@6?;f@X2@2
+l20
+L19
+V5C^VcG3^NWYVnledo2Big2
+R9
+32
+R212
+R213
+R214
+R13
+R14
+!s100 ?8MTd]:2ZDD=B30`hCaNd0
+Eeight_bit_divider
+Z215 w1587784557
+Z216 DPx4 work 9 new_types 0 22 KLU3TzDiU8IM^ADd`4Xa^1
+R6
+Z217 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/eight-bit_divider.vhd
+Z218 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/eight-bit_divider.vhd
+l0
+L13
+V>eFiI`5S^kKKA`N=P<XYz2
+R9
+32
+Z219 !s108 1762876318.661000
+Z220 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/eight-bit_divider.vhd|
+Z221 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/eight-bit_divider.vhd|
+R13
+R14
+!s100 8=J;aYPI@bzkC7@oaMCe=2
+Adivide
+R216
+DEx4 work 17 eight_bit_divider 0 22 >eFiI`5S^kKKA`N=P<XYz2
+l19
+L18
+V]62E>>TJlT>U1YjLfm_A=3
+R9
+32
+R219
+R220
+R221
+R13
+R14
+!s100 WFFYlV:`gW?L_6fd^MH:?0
+Penumerated_gray_encoding
+w1307676979
+R6
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/gray_encoding.vhd
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/gray_encoding.vhd
+l0
+L6
+VhB=Aoe`?kGO;j6PWUHV<[0
+R9
+32
+R13
+R14
+!s100 WaHKZLcdn215G8;D4KUJd2
+!s108 1762876321.627000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/gray_encoding.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/gray_encoding.vhd|
+Eeqcomp4
+Z222 w1107371392
+R6
+Z223 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/equality_comparator.vhd
+Z224 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/equality_comparator.vhd
+l0
+L5
+VBOgZSQml[hK?5dS8n5AXl1
+R9
+32
+Z225 !s108 1762876318.967000
+Z226 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/equality_comparator.vhd|
+Z227 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/equality_comparator.vhd|
+R13
+R14
+!s100 >m^Jm1oYJ95b1oV7`MUPg1
+Adataflow
+DEx4 work 7 eqcomp4 0 22 BOgZSQml[hK?5dS8n5AXl1
+l11
+L10
+ViW>D2z5jS]nQ4NC[M>LQR3
+R9
+32
+R225
+R226
+R227
+R13
+R14
+!s100 N3TAmmS2G4T_Mc[SKk<HC0
+Eexample
+Z228 w1257944126
+R6
+Z229 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/for_syn1.vhd
+Z230 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/for_syn1.vhd
+l0
+L5
+VU63R_l[4KNPlQzLlbN48M0
+R9
+32
+Z231 !s108 1762876319.891000
+Z232 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/for_syn1.vhd|
+Z233 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/for_syn1.vhd|
+R13
+R14
+!s100 1bhnaCiYBLI09n1R^8bG>3
+Abehav
+DEx4 work 7 example 0 22 U63R_l[4KNPlQzLlbN48M0
+l12
+L11
+VQkhJLRmglm^TB=?US<zgD3
+R9
+32
+R231
+R232
+R233
+R13
+R14
+!s100 0L<bGKjlaYTFB9k62_XMh2
+Eff
+Z234 w1111396858
+R4
+R66
+R6
+Z235 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn7.vhd
+Z236 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn7.vhd
+l0
+L8
+V2Hl3:Eg9PoCE8ON_[R^lh3
+R9
+32
+Z237 !s108 1762876323.202000
+Z238 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn7.vhd|
+Z239 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn7.vhd|
+R13
+R14
+!s100 OBOIOg=e1lhn1?IP2KZdf3
+Aff
+R4
+R66
+DEx4 work 2 ff 0 22 2Hl3:Eg9PoCE8ON_[R^lh3
+l14
+L13
+V`^cB4IJH<;kM3YzSSUKYQ3
+R9
+32
+R237
+R238
+R239
+R13
+R14
+!s100 1QV34H;NOTL5`MXZGG0<`2
+Efsm
+Z240 w1257944880
+R4
+R66
+R6
+Z241 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_3p.vhd
+Z242 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_3p.vhd
+l0
+L9
+VIN=h_>]=3`;26UI1kd3f71
+R9
+32
+Z243 !s108 1762876321.056000
+Z244 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_3p.vhd|
+Z245 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_3p.vhd|
+R13
+R14
+!s100 7BiVQIm]1cD1@nUc][jjn1
+Amoore_3p
+R4
+R66
+Z246 DEx4 work 3 fsm 0 22 IN=h_>]=3`;26UI1kd3f71
+l19
+L15
+VBMZfL45nS;GZ7KMT`=azB0
+R9
+32
+R243
+R244
+R245
+R13
+R14
+!s100 YKi8in:5[N4`Pz6fW9Jil3
+Amoore_2p
+R4
+R66
+R246
+l19
+L15
+V6`KAc0Ge80h?ncR<[P]_N2
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_2p.vhd
+w1111068368
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_2p.vhd
+!s100 >i6XMS==Mc<4zHOcZXhoQ3
+!s108 1762876320.859000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_2p.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_2p.vhd|
+Amoore_1p
+R4
+R66
+R246
+l18
+L15
+V>@4V_55a<?_4MLAdXTi6?2
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_1p.vhd
+w1111068362
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_1p.vhd
+!s100 V=`02l^cE]]c2=iCEKA1^1
+!s108 1762876320.655000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_1p.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_moore_1p.vhd|
+Amealy_3p
+R4
+R66
+R246
+l19
+L15
+Vah=ILDB^MhAk7CWTZ^R@H1
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_3p.vhd
+w1111068356
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_3p.vhd
+!s100 <;[6GW:GR]<1HSJ_3l?mU1
+!s108 1762876320.490000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_3p.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_3p.vhd|
+Amealy_2p
+R4
+R66
+R246
+l19
+L15
+VFJ4_786S_bkiza_eT]^IJ3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_2p.vhd
+w1111068350
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_2p.vhd
+!s100 5`dI1Rfe^j9=ZbAQ_Re5F0
+!s108 1762876320.289000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_2p.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_2p.vhd|
+Amealy_1p
+R4
+R66
+R246
+l18
+L15
+V_Ig4nJdE1NI5`76RCN3NE3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_1p.vhd
+w1111068344
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_1p.vhd
+!s100 nd]_F`eW=BL@9`V9n6UJS0
+!s108 1762876320.091000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_1p.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_mealy_1p.vhd|
+Efsm_tb
+Z247 w1258145682
+R4
+R66
+R6
+Z248 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_tb.vhd
+Z249 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_tb.vhd
+l0
+L9
+Vd0Zcogbf5@6fBha:[eJ081
+R9
+32
+Z250 !s108 1762876321.246000
+Z251 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_tb.vhd|
+Z252 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/fsm_tb.vhd|
+R13
+R14
+!s100 Vm<QzLhSOo>497cSO=5zS3
+Atb_arch
+R246
+R4
+R66
+DEx4 work 6 fsm_tb 0 22 d0Zcogbf5@6fBha:[eJ081
+l22
+L12
+VJkzB=LbI>=m6NT?GGVn[a2
+R9
+32
+R250
+R251
+R252
+R13
+R14
+!s100 MFn]98>lb4jc2OPXIb0Rb2
+Efull_adder
+Z253 w1257945124
+R6
+Z254 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/full_adder.vhd
+Z255 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/full_adder.vhd
+l0
+L5
+VcL7l1fbVE0:2HOAd^N2o12
+R9
+32
+Z256 !s108 1762876321.422000
+Z257 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/full_adder.vhd|
+Z258 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/full_adder.vhd|
+R13
+R14
+!s100 XhPW^YL]ZmhOa2bR8694`2
+Afa
+DEx4 work 10 full_adder 0 22 cL7l1fbVE0:2HOAd^N2o12
+l11
+L10
+VaIOQ@Gcb?^hY3SY^PWEKV3
+R9
+32
+R256
+R257
+R258
+R13
+R14
+!s100 hRnVKL5O:zlWf`3:@MD<;1
+Egate
+Z259 w1111372394
+R6
+Z260 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn5.vhd
+Z261 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn5.vhd
+l0
+L5
+VAZEaalck_Gd=3^=BYKiMm0
+R9
+32
+Z262 !s108 1762876322.811000
+Z263 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn5.vhd|
+Z264 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn5.vhd|
+R13
+R14
+!s100 ch<<dY:Z_35MzoLJXJI991
+Abehav
+DEx4 work 4 gate 0 22 AZEaalck_Gd=3^=BYKiMm0
+l11
+L10
+V_7Ij=BVgjXKGbL5L3lFAY3
+R9
+32
+R262
+R263
+R264
+R13
+R14
+!s100 O=VLSAko6?<M^RF:m_DKd0
+Egray_counter
+Z265 w1369100425
+R81
+R4
+R66
+R6
+Z266 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_gray.vhd
+Z267 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_gray.vhd
+l0
+L9
+V8jHM02nB4g[ORTOK6gGM;3
+R9
+32
+Z268 !s108 1762876315.257000
+Z269 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_gray.vhd|
+Z270 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/counter_gray.vhd|
+R13
+R14
+!s100 ^Xe2iYMYDWoJcN5E<THoj1
+Abehav
+R99
+R81
+R4
+R66
+DEx4 work 12 gray_counter 0 22 8jHM02nB4g[ORTOK6gGM;3
+l27
+L15
+V0`6I>WHd2^PEhhj`JS0F42
+R9
+32
+R268
+R269
+R270
+R13
+R14
+!s100 Wizf^<O6M9en9kZR1XZ@A3
+Ehalf_adder
+Z271 w1588834735
+R6
+Z272 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/half_adder.vhd
+Z273 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/half_adder.vhd
+l0
+L5
+VKHQjZ8zn<PnBE16TJXiC:1
+R9
+32
+Z274 !s108 1762876321.765000
+Z275 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/half_adder.vhd|
+Z276 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/half_adder.vhd|
+R13
+R14
+!s100 dEzQbGbD`KVPbWjni1eH30
+Adataflow
+DEx4 work 10 half_adder 0 22 KHQjZ8zn<PnBE16TJXiC:1
+l11
+L10
+V10?=aRB<b>FWPG6m<0X9X2
+R9
+32
+R274
+R275
+R276
+R13
+R14
+!s100 <h>Ez3:>@JeEBUEQPHXXb1
+Eincrement
+w1389753041
+R81
+R4
+R66
+R6
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/increment.vhd
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/increment.vhd
+l0
+L9
+VcDhcFiV1SoACN_8J3G<Fa2
+R9
+32
+R13
+R14
+!s100 dP2S8LRfR^>QTE;^:b^[z2
+!s108 1762876323.595000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/increment.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/increment.vhd|
+Pinteger_encoding
+w1257911674
+R6
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/constant_encoding.vhd
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/constant_encoding.vhd
+l0
+L6
+Vh11CJh6TSQnbj`VOlahz52
+R9
+32
+R13
+R14
+!s100 IVO]NS1920W1ngbKM_WK32
+!s108 1762876314.588000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/constant_encoding.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/constant_encoding.vhd|
+Eintegrator
+Z277 w1115108426
+R6
+Z278 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/integrator.vhd
+Z279 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/integrator.vhd
+l0
+L5
+VNT9O@95oSAMHk6YIOOeJE1
+R9
+32
+Z280 !s108 1762876323.850000
+Z281 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/integrator.vhd|
+Z282 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/integrator.vhd|
+R13
+R14
+!s100 P`Ug:c<Le]Ek11bP@?_kl1
+Abehav
+DEx4 work 10 integrator 0 22 NT9O@95oSAMHk6YIOOeJE1
+l12
+L11
+V=lD]kl_929zdEdHhHgDZd0
+R9
+32
+R280
+R281
+R282
+R13
+R14
+!s100 B=6K8b4P^[ddDgzcYbKEV1
+Elatch
+Z283 w1590298341
+R6
+Z284 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch.vhd
+Z285 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch.vhd
+l0
+L5
+VmISzl`zTjXlD8B8z?OD:=0
+R9
+32
+Z286 !s108 1762876306.765000
+Z287 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch.vhd|
+Z288 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch.vhd|
+R13
+R14
+!s100 Ie]A6D]14HG34P3e]9ZER3
+Abehav
+Z289 DEx4 work 5 latch 0 22 mISzl`zTjXlD8B8z?OD:=0
+l11
+L10
+VNOlYR^l5]>znf;SBnRS`e0
+R9
+32
+R286
+R287
+R288
+R13
+R14
+!s100 gzf7>kAee@i3lc13GgmTi0
+Elatch4
+Z290 w1590303809
+R6
+Z291 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_positional.vhd
+Z292 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_positional.vhd
+l0
+L8
+Vc<nOU<LfYE@0;SAK99Smo3
+R9
+32
+Z293 !s108 1762876307.564000
+Z294 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_positional.vhd|
+Z295 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_positional.vhd|
+R13
+R14
+!s100 h59fok?c[]5JB1=X]zCDT2
+Astruct_positional
+R56
+R289
+Z296 DEx4 work 6 latch4 0 22 c<nOU<LfYE@0;SAK99Smo3
+l28
+L14
+VIf14liZ7P:YYa0;XIOCGC1
+R9
+32
+R293
+R294
+R295
+R13
+R14
+!s100 Ne:_K<=Pom^1[VZoBOPM?3
+Astruct_named
+R56
+R289
+R296
+l28
+L14
+V3TcgidXOlbQFz;K`OVGHL0
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_named.vhd
+w1590303775
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_named.vhd
+!s100 `=hicM[fUBAObIn75_@O22
+!s108 1762876307.334000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_named.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_structural_named.vhd|
+Abehav
+R296
+l12
+L11
+VFS[@iOJ@[Xo@W0d`ECiNi3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_behavioral.vhd
+w1590299599
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_behavioral.vhd
+!s100 kML;7Q?;1`U5TW8BIDTE63
+!s108 1762876307.125000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_behavioral.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/4-bit_latch_behavioral.vhd|
+Elatch8
+Z297 w1590303675
+R6
+Z298 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/8-bit_latch_structural_configuration.vhd
+Z299 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/8-bit_latch_structural_configuration.vhd
+l0
+L8
+Vidd6hNfHak<Q36fN3Wma>3
+R9
+32
+Z300 !s108 1762876307.779000
+Z301 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/8-bit_latch_structural_configuration.vhd|
+Z302 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/8-bit_latch_structural_configuration.vhd|
+R13
+R14
+!s100 ekaC1@b>iI4UFbWleLPRH2
+Astruct
+Z303 DEx4 work 6 latch8 0 22 idd6hNfHak<Q36fN3Wma>3
+l20
+L14
+V@K^ImCUFJ5jzo:I>3T8Do2
+R9
+32
+R300
+R301
+R302
+R13
+R14
+!s100 YZO@4;PlB8PERSlP2nm2F2
+Elatch_3
+Z304 w1111373568
+R6
+Z305 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn6.vhd
+Z306 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn6.vhd
+l0
+L5
+VdUoEZl87aGUlWcKajVU[R0
+R9
+32
+Z307 !s108 1762876323.011000
+Z308 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn6.vhd|
+Z309 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn6.vhd|
+R13
+R14
+!s100 IaZQ5iiacKVOBhBek46VO1
+Abehave_3
+DEx4 work 7 latch_3 0 22 dUoEZl87aGUlWcKajVU[R0
+l12
+L10
+V;eKhi3;n53ez58;zY3PF02
+R9
+32
+R307
+R308
+R309
+R13
+R14
+!s100 Oi1OlJUESiLA]z]DB2HX60
+Elatch_case
+Z310 w1590384910
+R6
+Z311 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn5_encoder.vhd
+Z312 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn5_encoder.vhd
+l0
+L5
+VTFTUVid>gCEOW6h2S:S]W3
+R9
+32
+Z313 !s108 1762876313.067000
+Z314 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn5_encoder.vhd|
+Z315 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn5_encoder.vhd|
+R13
+R14
+!s100 f0?7FOAOIiG7j^?e;llXQ0
+Artl
+DEx4 work 10 latch_case 0 22 TFTUVid>gCEOW6h2S:S]W3
+l11
+L10
+V^f_JoZ@D4S4>8zcc?k;ag2
+R9
+32
+R313
+R314
+R315
+R13
+R14
+!s100 j>j`k`^zQVE`o@QNMm2oc0
+Elatch_delay
+Z316 w1257905386
+R6
+Z317 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch_delay.vhd
+Z318 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch_delay.vhd
+l0
+L5
+VO`P8V3XfTkT?WdUmb?i4f1
+R9
+32
+Z319 !s108 1762876306.926000
+Z320 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch_delay.vhd|
+Z321 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/1-bit_latch_delay.vhd|
+R13
+R14
+!s100 XR3z96OG<>709jD<Mz?V`1
+Abehav
+DEx4 work 11 latch_delay 0 22 O`P8V3XfTkT?WdUmb?i4f1
+l12
+L11
+Vag2mjo=Y>BXDMhg86cob21
+R9
+32
+R319
+R320
+R321
+R13
+R14
+!s100 UlboblKO>@8=4M^?R1WKG1
+Elatch_nested
+Z322 w1257909554
+Z323 DPx4 work 5 types 0 22 l:2>6@l=nAhJ4cjO6Qd=C2
+R81
+R4
+R66
+R6
+Z324 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn4.vhd
+Z325 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn4.vhd
+l0
+L14
+VUkEho;VQb2WK<Jk=i>cWQ1
+R9
+32
+Z326 !s108 1762876312.747000
+Z327 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn4.vhd|
+Z328 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/case_syn4.vhd|
+R13
+R14
+!s100 7zflz9oX<Un<hIKWDcNE23
+Artl
+R323
+R81
+R4
+R66
+DEx4 work 12 latch_nested 0 22 UkEho;VQb2WK<Jk=i>cWQ1
+l22
+L21
+VTa^[lbKNSSfm>0l@Tf_b22
+R9
+32
+R326
+R327
+R328
+R13
+R14
+!s100 9T2CHf:@k7i2E4N612LIX1
+Emem
+Z329 w1257947438
+Z330 DPx4 work 10 my_package 0 22 OUD][1_C8CLzlMjdaeBBC3
+R6
+Z331 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mypackage.vhd
+Z332 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mypackage.vhd
+l0
+L14
+VfoH42:C40gW<HhlITeDib3
+R9
+32
+Z333 !s108 1762876324.991000
+Z334 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mypackage.vhd|
+Z335 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mypackage.vhd|
+R13
+R14
+!s100 0L:WXB1<h>0jQGXKm?F`e1
+Asample
+R330
+DEx4 work 3 mem 0 22 foH42:C40gW<HhlITeDib3
+l22
+L20
+V[oVegZ@n>HPEk79d]AD4f2
+R9
+32
+R333
+R334
+R335
+R13
+R14
+!s100 Ge>k`43LfFo16Bjd]ZQ<92
+Emux
+Z336 w1257947028
+R4
+R66
+R6
+Z337 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux_sel.vhd
+Z338 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux_sel.vhd
+l0
+L7
+V9JRJSdU4Dfj9Yd6bELcMZ0
+R9
+32
+Z339 !s108 1762876324.802000
+Z340 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux_sel.vhd|
+Z341 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux_sel.vhd|
+R13
+R14
+!s100 KiBbJ@XkSLRQUXmiNI7P[1
+Artl
+R4
+R66
+DEx4 work 3 mux 0 22 9JRJSdU4Dfj9Yd6bELcMZ0
+l13
+L13
+V:BdZS<9KFGMSo8JaUemj@0
+R9
+32
+R339
+R340
+R341
+R13
+R14
+!s100 E4Ff?FRf=[M^So?YDLUgA3
+Amux
+R4
+R66
+DEx4 work 3 mux 0 22 JcFjoNH6H7M]RK>DAi:A]2
+l14
+L14
+Vnz@]gB2HC;GY0h4Mfna652
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux.vhd
+w1118304122
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux.vhd
+!s100 ?fb?g@=oI4J5oa?>7GXC13
+!s108 1762876324.625000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/mux.vhd|
+Pmy_package
+R329
+R6
+R331
+R332
+l0
+L6
+VOUD][1_C8CLzlMjdaeBBC3
+R9
+32
+R333
+R334
+R335
+R13
+R14
+!s100 RCF4JEhbOh1F0YKLOQ>nQ0
+Pmy_types
+Z342 w1257974948
+R6
+Z343 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/small_int.vhd
+Z344 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/small_int.vhd
+l0
+L5
+V7UmVQ27W<KaY;icLC1N:23
+R9
+32
+Z345 !s108 1762876328.127000
+Z346 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/small_int.vhd|
+Z347 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/small_int.vhd|
+R13
+R14
+!s100 m85@M0UglAi8XS^_FCZN92
+Pnew_types
+R215
+R6
+R217
+R218
+l0
+L7
+VKLU3TzDiU8IM^ADd`4Xa^1
+R9
+32
+R219
+R220
+R221
+R13
+R14
+!s100 O<^@zX6i6ETUgNj4]6B8E0
+Eones
+Z348 w1257951626
+R6
+Z349 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ones.vhd
+Z350 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ones.vhd
+l0
+L5
+VB6PYH7h13l8LWReki>f9L2
+R9
+32
+Z351 !s108 1762876325.524000
+Z352 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ones.vhd|
+Z353 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ones.vhd|
+R13
+R14
+!s100 VJ^k`=B0O?L0B:E2YKa1G1
+Abehav
+DEx4 work 4 ones 0 22 B6PYH7h13l8LWReki>f9L2
+l11
+L10
+V35EP=;>gSDnU_?h0N256j3
+R9
+32
+R351
+R352
+R353
+R13
+R14
+!s100 UCN?noDBoNhWNk4oH6<eQ0
+Pp1
+Z354 w1108041624
+R6
+Z355 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_sel.vhd
+Z356 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_sel.vhd
+l0
+L5
+V@Zme5`IWT;3?e`5YcQM>n1
+R9
+32
+Z357 !s108 1762876318.070000
+Z358 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_sel.vhd|
+Z359 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/decoder_sel.vhd|
+R13
+R14
+!s100 Yk8L6^NB>2NTkC<dU3CVD3
+Ep2s
+Z360 w1426820593
+R6
+Z361 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/p2s.vhd
+Z362 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/p2s.vhd
+l0
+L5
+V755?TS3a52Gh6C?jVSnJK3
+R9
+32
+Z363 !s108 1762876325.720000
+Z364 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/p2s.vhd|
+Z365 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/p2s.vhd|
+R13
+R14
+!s100 0=QcYeD^_23PF^<[^ZgP:3
+Ashift
+DEx4 work 3 p2s 0 22 755?TS3a52Gh6C?jVSnJK3
+l14
+L12
+V57;dF:bzHWzkZ115jc?UW3
+R9
+32
+R363
+R364
+R365
+R13
+R14
+!s100 1fg1iMbTb=RJ[?zHd?Fio1
+Ppack_a
+32
+R2
+R6
+R7
+R8
+l0
+L5
+V7<GF5:^MC3b1b6kO1NRB<2
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 _E5zoC1kDIal<@MJ>eB6j2
+Ppackage_functions
+Z366 w1118400492
+R6
+Z367 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/parity.vhd
+Z368 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/parity.vhd
+l0
+L5
+VX5Oo0S<eHU>Q9ba6gOmgV2
+R9
+32
+b1
+Z369 !s108 1762876325.890000
+Z370 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/parity.vhd|
+Z371 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/parity.vhd|
+R13
+R14
+!s100 H4B7WI`2fNPcj3QADL1CO0
+Bbody
+DPx4 work 17 package_functions 0 22 X5Oo0S<eHU>Q9ba6gOmgV2
+l0
+L9
+V]TWQbV]Scj;>C`X76FVle3
+R9
+32
+R369
+R370
+R371
+R13
+R14
+nbody
+!s100 6CQWGlh1I9d^A]kDXMfZK3
+Ppackage_procedures
+Z372 w1118402376
+R6
+Z373 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/first_one_procedure.vhd
+Z374 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/first_one_procedure.vhd
+l0
+L6
+VQC>3@LY[IbcgY0]MDieTU2
+R9
+32
+b1
+Z375 !s108 1762876319.635000
+Z376 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/first_one_procedure.vhd|
+Z377 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/first_one_procedure.vhd|
+R13
+R14
+!s100 UoYYR>G:jc@GZaSNFZ:ff0
+Bbody
+DPx4 work 18 package_procedures 0 22 QC>3@LY[IbcgY0]MDieTU2
+l0
+L12
+V?J6JFFU2E^D:GRDO^o8a@1
+R9
+32
+R375
+R376
+R377
+R13
+R14
+nbody
+!s100 @><oBhnQk>6leR^TE_JRV1
+Eprebus
+Z378 w1111401156
+R4
+R66
+R6
+Z379 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn2.vhd
+Z380 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn2.vhd
+l0
+L8
+V9lBGelnOj0ZR9QcBCLE7D3
+R9
+32
+Z381 !s108 1762876329.095000
+Z382 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn2.vhd|
+Z383 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn2.vhd|
+R13
+R14
+!s100 AV7^ch;d>]2a0oPL7k1;f0
+Amaxpld
+R4
+R66
+DEx4 work 6 prebus 0 22 9lBGelnOj0ZR9QcBCLE7D3
+l15
+L14
+V@Ih18ZXo>@MnOod5M7YgP0
+R9
+32
+R381
+R382
+R383
+R13
+R14
+!s100 7k<DJjOnS`>TABMTX@;An1
+Epriority
+Z384 w1111359972
+R6
+Z385 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/priority.vhd
+Z386 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/priority.vhd
+l0
+L5
+VZ^51D^8[n43R5Qo1TJ`;i1
+R9
+32
+Z387 !s108 1762876326.090000
+Z388 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/priority.vhd|
+Z389 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/priority.vhd|
+R13
+R14
+!s100 U0I7hozh<S<<@moNSjJYW0
+Abehav
+DEx4 work 8 priority 0 22 Z^51D^8[n43R5Qo1TJ`;i1
+l10
+L10
+V1L24[7nYCWU<^`S>KfYI31
+R9
+32
+R387
+R388
+R389
+R13
+R14
+!s100 KGG^I[_YdfOQTYJl4o=lV0
+Ereg
+Z390 w1257979144
+R4
+R66
+R6
+Z391 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn2.vhd
+Z392 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn2.vhd
+l0
+L8
+VKA]VAT0?:93aE`_<g_nHY3
+R9
+32
+Z393 !s108 1762876329.815000
+Z394 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn2.vhd|
+Z395 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn2.vhd|
+R13
+R14
+!s100 ADfL8J31GIJhc>lPRh_zI0
+Abehav
+R4
+R66
+DEx4 work 3 reg 0 22 KA]VAT0?:93aE`_<g_nHY3
+l15
+L14
+VGLL:CEMhdS;c=jC?e42oA2
+R9
+32
+R393
+R394
+R395
+R13
+R14
+!s100 UQzH2PI75nXL2WO1GeRQ_0
+Erom
+Z396 w1591258075
+R81
+R4
+R66
+R6
+Z397 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rom.vhd
+Z398 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rom.vhd
+l0
+L9
+Vg4FD]_XTSJ_D^iL2`fYk=0
+R9
+32
+Z399 !s108 1762876327.116000
+Z400 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rom.vhd|
+Z401 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rom.vhd|
+R13
+R14
+!s100 n5WVznLLWLg;Wbnm5FM[I0
+Agen_arch
+R81
+R4
+R66
+Z402 DEx4 work 3 rom 0 22 g4FD]_XTSJ_D^iL2`fYk=0
+l204
+L201
+VOQz>L7NK8]Go3L^55kbj`0
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 ;A]A^:`agg`WS>T0IFYPN3
+Afile_funct_arch
+R81
+R402
+R66
+DPx4 ieee 16 std_logic_textio 0 22 nS@;e8VD1o]DCVjBMSZYk3
+R4
+l187
+L169
+V^0]H?JWHTX9h_gLMT14Fb3
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 miUL9g[eO6g1JoX[5WHkB3
+Afunct_arch
+R81
+R4
+R66
+R402
+l151
+L138
+V<1`cNG6Am53BlDHU86m6b2
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 Qb[2YCNh60a[Q6INgcRJi0
+Ainit_sens_process_arch
+R81
+R4
+R66
+R402
+l110
+L106
+VKZADbSkIdnDFgTRajVYPh3
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 HU7z1`ZkDnJ77Ca?NIG4n0
+Ainit_wait_process_arch
+R81
+R4
+R66
+R402
+l78
+L74
+VL9k7Z8`UfTJn<J1N?IOkF0
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 IM@OlM@HMMjJEWC8nlIzM1
+Aloop_arch
+R81
+R4
+R66
+R402
+l51
+L48
+V6@QeGn92[l8;E2ZIUzMg@2
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 E0^2FQnJ@F9nn@@H<?iEA0
+Aflag_arch
+R81
+R4
+R66
+R402
+l25
+L21
+VXKWQZ<@ADmGDRl?V:Jma>3
+R9
+32
+R399
+R400
+R401
+R13
+R14
+!s100 D=>K72T_DEEdT_S[:5gg>2
+Ers_ff
+Z403 w1143872882
+R6
+Z404 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rs_ff.vhd
+Z405 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rs_ff.vhd
+l0
+L7
+VG<7U_ZZmA9jXOY5UP`eEd3
+R9
+32
+Z406 !s108 1762876327.740000
+Z407 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rs_ff.vhd|
+Z408 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/rs_ff.vhd|
+R13
+R14
+!s100 aC9U>2fizO5YQkWXNHD>Q3
+Adataflow
+DEx4 work 5 rs_ff 0 22 G<7U_ZZmA9jXOY5UP`eEd3
+l13
+L12
+V7S=>FhEb8VY;UM7?Q:jGW3
+R9
+32
+R406
+R407
+R408
+R13
+R14
+!s100 D4B5a^j85_1NHX9LbH@dX2
+Esequence
+Z409 w1257978858
+R4
+R66
+R6
+Z410 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn1.vhd
+Z411 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn1.vhd
+l0
+L8
+V`h<V@3z0>P4EH2?ISI2Xh0
+R9
+32
+Z412 !s108 1762876329.490000
+Z413 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn1.vhd|
+Z414 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/wait_syn1.vhd|
+R13
+R14
+!s100 oP7bQ0lKmRhCJn<fBTjJV0
+Aff
+R4
+R66
+DEx4 work 8 sequence 0 22 `h<V@3z0>P4EH2?ISI2Xh0
+l16
+L14
+V1JShViIRJC0`0lJkjl3:z2
+R9
+32
+R412
+R413
+R414
+R13
+R14
+!s100 G8cWLo2kOh5l3RY:QTA6D0
+Acomb
+DEx4 work 8 sequence 0 22 ]e6[]2L`cT4Pl5G536_902
+l13
+L11
+VGn=KSTEZbJ@eG^e6aKZV[3
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn1.vhd
+w1111398070
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn1.vhd
+!s108 1762876321.980000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn1.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/if_syn1.vhd|
+!s100 bHiXOE]ITRc1`<9gFd^Pf2
+Esingle_port_ram
+Z415 w1591303487
+R81
+R4
+R66
+R6
+Z416 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_single_port.vhd
+Z417 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_single_port.vhd
+l0
+L9
+Vm`S`NB]6^;iYnZebDk7eD2
+R9
+32
+Z418 !s108 1762876326.671000
+Z419 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_single_port.vhd|
+Z420 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/ram_single_port.vhd|
+R13
+R14
+!s100 e^3iRQ:hN6SeIIBfhoIon2
+Abehav
+R81
+R4
+R66
+DEx4 work 15 single_port_ram 0 22 m`S`NB]6^;iYnZebDk7eD2
+l18
+L17
+V0g:g;MfAR3nL77Nl=mk[z2
+R9
+32
+R418
+R419
+R420
+R13
+R14
+!s100 N2FU<cG4UUZ@:bDWRzoei3
+Esmall_adder
+R342
+DPx4 work 8 my_types 0 22 7UmVQ27W<KaY;icLC1N:23
+R6
+R343
+R344
+l0
+L10
+VkK`7QW<fT4mOZ2b2mLniP2
+R9
+32
+R345
+R346
+R347
+R13
+R14
+!s100 nVYFXeIc3^JmFP3Fh:M7H0
+Esource
+Z421 w1119248704
+R4
+R66
+R6
+Z422 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/inc_fsm.vhd
+Z423 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/inc_fsm.vhd
+l0
+L10
+V0]WAG9nTAWgURJed:D:gX1
+R9
+32
+Z424 !s108 1762876323.414000
+Z425 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/inc_fsm.vhd|
+Z426 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/inc_fsm.vhd|
+R13
+R14
+!s100 X9g[c?=lUQP<N[XH[E]4S0
+Afsm
+R4
+R66
+DEx4 work 6 source 0 22 0]WAG9nTAWgURJed:D:gX1
+l18
+L16
+V@??Wf1Z?=md3hOQPGXWi93
+R9
+32
+R424
+R425
+R426
+R13
+R14
+!s100 43c`2Ria]6gbg=eloO9`M1
+Esr
+Z427 w1295051004
+R4
+R66
+R6
+Z428 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/shift_register.vhd
+Z429 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/shift_register.vhd
+l0
+L9
+V^l=NZMnAXCn9n`>`50d]32
+R9
+32
+Z430 !s108 1762876327.959000
+Z431 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/shift_register.vhd|
+Z432 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/shift_register.vhd|
+R13
+R14
+!s100 NgoJAQ_<:OaH05>VY8^M>3
+Asr
+R4
+R66
+DEx4 work 2 sr 0 22 ^l=NZMnAXCn9n`>`50d]32
+l17
+L16
+V?ScI?n:[`QNdMX<>SVoBP1
+R9
+32
+R430
+R431
+R432
+R13
+R14
+!s100 jl85N8Q<VT3QePo@:<Sio1
+Estate3
+Z433 w1257977340
+R4
+R66
+R6
+Z434 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn1.vhd
+Z435 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn1.vhd
+l0
+L8
+VT15bgOc]BTR1:_W9V_C4g3
+R9
+32
+Z436 !s108 1762876328.911000
+Z437 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn1.vhd|
+Z438 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn1.vhd|
+R13
+R14
+!s100 ::zm6;8<ii=mo0j`]jcFe3
+Artl
+R4
+R66
+DEx4 work 6 state3 0 22 T15bgOc]BTR1:_W9V_C4g3
+l15
+L14
+VQiIAM]U@YlQ4I]NCWQ>6L2
+R9
+32
+R436
+R437
+R438
+R13
+R14
+!s100 @3<N=:]ci__`D=D=AkKe^0
+Estate_update
+R115
+Z439 DPx4 work 7 collect 0 22 3fkiz4dYJhYF7BlVW4o6k2
+R6
+R116
+R117
+l0
+L11
+VY9EL;YY[nS6?j2?d^8:9M0
+R9
+32
+R118
+R119
+R120
+R13
+R14
+!s100 h`bd3ZZ7D9<dA1;ZbFDV12
+Aupdate
+R439
+DEx4 work 12 state_update 0 22 Y9EL;YY[nS6?j2?d^8:9M0
+l17
+L16
+VMDbOCJM98QTdF4K]WBF9_2
+R9
+32
+R118
+R119
+R120
+R13
+R14
+!s100 ]HSMPCMDl1VIm[jDBgR1G2
+Cstruct_conf
+astruct
+elatch8
+R296
+DAx4 work 6 latch8 6 struct 22 @K^ImCUFJ5jzo:I>3T8Do2
+R303
+R297
+R6
+R298
+R299
+l0
+L25
+Vk=PeX[1l6i:KI9LoGnD1d1
+R9
+32
+R300
+R301
+R302
+R13
+R14
+!s100 <UG><9JO`Zg[>6Gl@5`V^3
+Et_ff
+Z440 w1389753582
+R4
+R66
+R6
+Z441 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/t_ff.vhd
+Z442 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/t_ff.vhd
+l0
+L8
+VjZSGQg33Q>@4QfH51cdkO2
+R9
+32
+Z443 !s108 1762876328.333000
+Z444 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/t_ff.vhd|
+Z445 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/t_ff.vhd|
+R13
+R14
+!s100 AcXkA>2RQ^cAlCIPdLozX0
+Aasync_clear
+R4
+R66
+DEx4 work 4 t_ff 0 22 jZSGQg33Q>@4QfH51cdkO2
+l16
+L14
+VZRWPS1c;m=`iEEe>cb:]W3
+R9
+32
+R443
+R444
+R445
+R13
+R14
+!s100 XWRN39AF>iRb9?9AA_>6H3
+Etb_alu
+Z446 w1762880701
+R3
+R4
+R5
+R6
+R24
+R25
+l0
+L13
+V0;HO<hZ>ZY:aW[j:fC^QY0
+R9
+32
+Z447 !s108 1762880705.400000
+R27
+Z448 !s107 F:\ITI 9 Months\ITI-9Months-DigitalIC\02-Digital-Design\VHDL\Labs\Lab2\alu_tb.vhd|
+R13
+R14
+!s100 LQkR;0WI_E<Uz0kWBYMcT2
+Abehavior
+R3
+R4
+R5
+DEx4 work 6 tb_alu 0 22 0;HO<hZ>ZY:aW[j:fC^QY0
+32
+l30
+L16
+VZST^??g98MmU[FaObi59<2
+R9
+R447
+R27
+R448
+R13
+R14
+!s100 ``1QiEmG_H@f?ie5A37WK0
+Etb_alu_variable
+Z449 w1762879394
+R4
+R5
+R6
+Z450 8F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_carry_tb.vhd
+Z451 FF:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_carry_tb.vhd
+l0
+L12
+VeiIj0eXAY?:RFF4DZ8;Fe0
+R9
+32
+Z452 !s108 1762879395.850000
+Z453 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_carry_tb.vhd|
+Z454 !s107 F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/VHDL/Labs/Lab2/alu_carry_tb.vhd|
+R13
+R14
+!s100 l7F3546F]Bh2dPQ[dT?B81
+Abehavior
+R4
+R5
+DEx4 work 15 tb_alu_variable 0 22 eiIj0eXAY?:RFF4DZ8;Fe0
+l31
+L15
+VAEkFb6bG0;S8eQg3m`Mk[3
+R9
+32
+R452
+R453
+R454
+R13
+R14
+!s100 `GTiFJ73IXZhJ3kZMMiOa1
+Etest
+R354
+Z455 DPx4 work 2 p1 0 22 @Zme5`IWT;3?e`5YcQM>n1
+R4
+R66
+R6
+R355
+R356
+l0
+L13
+V]oe:b^8m<CU5[MYhge3UV1
+R9
+32
+R357
+R358
+R359
+R13
+R14
+!s100 mVQfkRanl^N;aIeX0<MPZ2
+Artl
+R455
+R4
+R66
+DEx4 work 4 test 0 22 ]oe:b^8m<CU5[MYhge3UV1
+l18
+L18
+VAJhAgmA1BZl<`@o3LDUlf3
+R9
+32
+R357
+R358
+R359
+R13
+R14
+!s100 IQ@n4CZ67f^;Vm7hR781<1
+Atest
+R58
+DEx4 work 4 test 0 22 <JffSJZ3e_g13`jN9mbH92
+l40
+L31
+V8f2WJHg6cle0nh^2NE0a42
+R9
+32
+R59
+R60
+R61
+R13
+R14
+R62
+R63
+R64
+!s100 lXlhX>;[?8_R49nL=anJd2
+Etestbench
+Z456 w1588834457
+R6
+Z457 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_positional.vhd
+Z458 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_positional.vhd
+l0
+L6
+V>UYTH7gB8XT32JEYIYRY72
+R9
+32
+Z459 !s108 1762876317.514000
+Z460 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_positional.vhd|
+Z461 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_positional.vhd|
+R13
+R14
+!s100 P^3CioAZ9IU:hYzWKbcbR2
+Aproc_pos
+R177
+Z462 DEx4 work 9 testbench 0 22 >UYTH7gB8XT32JEYIYRY72
+l17
+L9
+VCOljlMe4ai?JGb_WM]b]<3
+R9
+32
+R459
+R460
+R461
+R13
+R14
+!s100 Cn39XYAD8SGnh4V1ZP20`3
+Aproc_named
+R177
+R462
+l18
+L10
+VZ3=Rh8fCfP_WhSIi18JTC2
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_named.vhd
+w1588834479
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_named.vhd
+!s100 Blf^dX?AkSCL7]<07zc_22
+!s108 1762876317.317000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_named.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_proc_named.vhd|
+Atest_file
+R177
+R4
+DEx4 work 9 testbench 0 22 bgkJIi_[@c>J]?XN@WaNe1
+l19
+L11
+Vk9MkbTd_>`?OV>0iRXc;;0
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_file.vhd
+w1590369367
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_file.vhd
+!s100 cgf3R@:8GoizzN]WG29GF1
+!s108 1762876317.091000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_file.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_file.vhd|
+Abasic
+R177
+R462
+l17
+L8
+V[M3>3_VThP=9zSa`_QiS71
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_assertions.vhd
+w1591277441
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_assertions.vhd
+!s100 BY3L:3T[hjon7NlS5md3z3
+!s108 1762876316.812000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_assertions.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/d_ff_tb_assertions.vhd|
+Etestbench8
+Z463 w1587782368
+R101
+R6
+Z464 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex_tb.vhd
+Z465 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex_tb.vhd
+l0
+L8
+VO0_=9=NDF2`QW?`gBdDSJ3
+R9
+32
+Z466 !s108 1762876314.196000
+Z467 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex_tb.vhd|
+Z468 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/complex_tb.vhd|
+R13
+R14
+!s100 [fIhYIe[XS@NNRRlDbVRP2
+Atest_complex
+R107
+R101
+DEx4 work 10 testbench8 0 22 O0_=9=NDF2`QW?`gBdDSJ3
+l20
+L11
+VC?mF<GS6HS@gLjZi^]eGB0
+R9
+32
+R466
+R467
+R468
+R13
+R14
+!s100 CCo^UW;h1Ql8QHifG7zRO3
+Etext_parse
+Z469 w1590350705
+R4
+R6
+Z470 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_write.vhd
+Z471 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_write.vhd
+l0
+L7
+Vh<=2I8nVgQ^coZRe]IHGP2
+R9
+32
+Z472 !s108 1762876319.390000
+Z473 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_write.vhd|
+Z474 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_write.vhd|
+R13
+R14
+!s100 ;fIUjPm=CXUC4VjA:d^Sj0
+Atext_write
+R4
+Z475 DEx4 work 10 text_parse 0 22 h<=2I8nVgQ^coZRe]IHGP2
+l11
+L10
+V3]g@lI76K177ZUfVB]eTz1
+R9
+32
+R472
+R473
+R474
+R13
+R14
+!s100 ^]AhfmXKORVaUQjb;hRFD2
+Atext_parse
+R4
+R475
+l11
+L10
+VeRP]]:oQHKgg1bH[8[LMW0
+R9
+32
+R13
+R14
+FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_read.vhd
+w1590350781
+8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_read.vhd
+!s100 h>MHonGPWBhYV9lCe]bIE2
+!s108 1762876319.192000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_read.vhd|
+!s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/file_read.vhd|
+Etrireg
+Z476 w1257977404
+R4
+R66
+R6
+Z477 8F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn3.vhd
+Z478 FF:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn3.vhd
+l0
+L8
+VJ2@WX2kj;UET?7M>8jHnW1
+R9
+32
+Z479 !s108 1762876329.313000
+Z480 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn3.vhd|
+Z481 !s107 F:/ITI 9 Months/Core_Course/Design/VHDL/Course Material/VHDL Code Examples/Examples from Slides/tristate_syn3.vhd|
+R13
+R14
+!s100 XTSPOE0[`W<9S5nS<CCk10
+Amixed
+R4
+R66
+DEx4 work 6 trireg 0 22 J2@WX2kj;UET?7M>8jHnW1
+l14
+L13
+VQ4WTClaGz`@^nN^_hRmXX1
+R9
+32
+R479
+R480
+R481
+R13
+R14
+!s100 i[H^B_;U5H`bFATi;W3he1
+Ptypes
+R322
+R6
+R324
+R325
+l0
+L5
+Vl:2>6@l=nAhJ4cjO6Qd=C2
+R9
+32
+R326
+R327
+R328
+R13
+R14
+!s100 SFaFzWVM^^[bYGeUe=05U0

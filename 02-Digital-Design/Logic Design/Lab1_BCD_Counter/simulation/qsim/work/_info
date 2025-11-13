@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim
+T_opt
+!s110 1762964158
+VH9;0ka00RzY@[l5o_8PHe1
+04 34 4 work TOW_DIGITS_BCD_COUNTER_vlg_vec_tst fast 0
+=1-b4a9fccc4ad6-6914b2bd-19d-266c
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+R0
+vBCD_COUNTER
+Z2 !s110 1762969120
+!i10b 1
+!s100 =cM`klBN@UPfhVK6RBz>32
+I3ChR9HecEKo@LSDH4=NGh0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1762969119
+Z4 8BCD_COUNTER.vo
+Z5 FBCD_COUNTER.vo
+Z6 L0 32
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1762969120.000000
+Z9 !s107 BCD_COUNTER.vo|
+Z10 !s90 -work|work|BCD_COUNTER.vo|
+!i113 1
+Z11 o-work work
+R1
+n@b@c@d_@c@o@u@n@t@e@r
+vBCD_COUNTER_vlg_vec_tst
+R2
+!i10b 1
+!s100 Aon`CnNfNk]97QG>[VccR2
+IkE<2RLP9Co;8gK2MUeNoP2
+R3
+R0
+w1762969117
+8Waveform8.vwf.vt
+FWaveform8.vwf.vt
+Z12 L0 30
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform8.vwf.vt|
+!s90 -work|work|Waveform8.vwf.vt|
+!i113 1
+R11
+R1
+n@b@c@d_@c@o@u@n@t@e@r_vlg_vec_tst
+vTOW_DIGITS_BCD_COUNTER
+Z13 !s110 1762970381
+!i10b 1
+!s100 ]GVlVE6l7CY[A5[:=I_=Z2
+ImDaR:j@heW8N4M2Ih5A763
+R3
+R0
+w1762970380
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+Z14 !s108 1762970381.000000
+R9
+R10
+!i113 1
+R11
+R1
+n@t@o@w_@d@i@g@i@t@s_@b@c@d_@c@o@u@n@t@e@r
+vTOW_DIGITS_BCD_COUNTER_vlg_vec_tst
+R13
+!i10b 1
+!s100 B_Ye6aKlWRebO:oQcae9^0
+IQRELznzH45DDk]DNEdTKh0
+R3
+R0
+w1762970379
+8Waveform9.vwf.vt
+FWaveform9.vwf.vt
+R12
+R7
+r1
+!s85 0
+31
+R14
+!s107 Waveform9.vwf.vt|
+!s90 -work|work|Waveform9.vwf.vt|
+!i113 1
+R11
+R1
+n@t@o@w_@d@i@g@i@t@s_@b@c@d_@c@o@u@n@t@e@r_vlg_vec_tst

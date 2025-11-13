@@ -1,5 +1,5 @@
 Flow report for BCD_COUNTER
-Wed Nov  5 21:07:31 2025
+Wed Nov 12 19:59:40 2025
 Quartus Prime Version 21.1.1 Build 850 06/23/2022 SJ Lite Edition
 
 
@@ -41,25 +41,25 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------+
 ; Flow Summary                                                                  ;
 +---------------------------------+---------------------------------------------+
-; Flow Status                     ; Successful - Wed Nov  5 21:07:24 2025       ;
+; Flow Status                     ; Successful - Wed Nov 12 19:59:40 2025       ;
 ; Quartus Prime Version           ; 21.1.1 Build 850 06/23/2022 SJ Lite Edition ;
 ; Revision Name                   ; BCD_COUNTER                                 ;
-; Top-level Entity Name           ; BCD_COUNTER                                 ;
+; Top-level Entity Name           ; TOW_DIGITS_BCD_COUNTER                      ;
 ; Family                          ; Cyclone V                                   ;
 ; Device                          ; 5CGXFC7C7F23C8                              ;
 ; Timing Models                   ; Final                                       ;
-; Logic utilization (in ALMs)     ; 3 / 56,480 ( < 1 % )                        ;
-; Total registers                 ; 7                                           ;
-; Total pins                      ; 6 / 268 ( 2 % )                             ;
+; Logic utilization (in ALMs)     ; N/A                                         ;
+; Total registers                 ; 8                                           ;
+; Total pins                      ; 12                                          ;
 ; Total virtual pins              ; 0                                           ;
-; Total block memory bits         ; 0 / 7,024,640 ( 0 % )                       ;
-; Total DSP Blocks                ; 0 / 156 ( 0 % )                             ;
-; Total HSSI RX PCSs              ; 0 / 6 ( 0 % )                               ;
-; Total HSSI PMA RX Deserializers ; 0 / 6 ( 0 % )                               ;
-; Total HSSI TX PCSs              ; 0 / 6 ( 0 % )                               ;
-; Total HSSI PMA TX Serializers   ; 0 / 6 ( 0 % )                               ;
-; Total PLLs                      ; 0 / 13 ( 0 % )                              ;
-; Total DLLs                      ; 0 / 4 ( 0 % )                               ;
+; Total block memory bits         ; 0                                           ;
+; Total DSP Blocks                ; 0                                           ;
+; Total HSSI RX PCSs              ; 0                                           ;
+; Total HSSI PMA RX Deserializers ; 0                                           ;
+; Total HSSI TX PCSs              ; 0                                           ;
+; Total HSSI PMA TX Serializers   ; 0                                           ;
+; Total PLLs                      ; 0                                           ;
+; Total DLLs                      ; 0                                           ;
 +---------------------------------+---------------------------------------------+
 
 
@@ -68,23 +68,28 @@ https://fpgasoftware.intel.com/eula.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 11/05/2025 21:06:35 ;
+; Start date & time ; 11/12/2025 19:55:03 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; BCD_COUNTER         ;
 +-------------------+---------------------+
 
 
-+-------------------------------------------------------------------------------------------------------------------------+
-; Flow Non-Default Global Settings                                                                                        ;
-+-------------------------------------+----------------------------------------+---------------+-------------+------------+
-; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id ;
-+-------------------------------------+----------------------------------------+---------------+-------------+------------+
-; COMPILER_SIGNATURE_ID               ; 198642183719638.176236959518892        ; --            ; --          ; --         ;
-; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
-; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
-; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; --          ; Top        ;
-; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --          ; --         ;
-+-------------------------------------+----------------------------------------+---------------+-------------+------------+
++------------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                                   ;
++-------------------------------------+----------------------------------------+---------------+------------------------+------------+
+; Assignment Name                     ; Value                                  ; Default Value ; Entity Name            ; Section Id ;
++-------------------------------------+----------------------------------------+---------------+------------------------+------------+
+; COMPILER_SIGNATURE_ID               ; 198642183719638.176297010305972        ; --            ; --                     ; --         ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                                     ; --            ; --                     ; --         ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                                      ; --            ; --                     ; --         ;
+; PARTITION_COLOR                     ; -- (Not supported for targeted family) ; --            ; TOW_DIGITS_BCD_COUNTER ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; -- (Not supported for targeted family) ; --            ; TOW_DIGITS_BCD_COUNTER ; Top        ;
+; PARTITION_NETLIST_TYPE              ; -- (Not supported for targeted family) ; --            ; TOW_DIGITS_BCD_COUNTER ; Top        ;
+; POWER_BOARD_THERMAL_MODEL           ; None (CONSERVATIVE)                    ; --            ; --                     ; --         ;
+; POWER_PRESET_COOLING_SOLUTION       ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --                     ; --         ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                           ; --            ; --                     ; --         ;
+; TOP_LEVEL_ENTITY                    ; TOW_DIGITS_BCD_COUNTER                 ; BCD_COUNTER   ; --                     ; --         ;
++-------------------------------------+----------------------------------------+---------------+------------------------+------------+
 
 
 +--------------------------------------------------------------------------------------------------------------------------+
@@ -92,11 +97,16 @@ https://fpgasoftware.intel.com/eula.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:09     ; 1.0                     ; 4855 MB             ; 00:00:22                           ;
-; Fitter               ; 00:00:30     ; 1.0                     ; 6765 MB             ; 00:00:57                           ;
-; Assembler            ; 00:00:08     ; 1.0                     ; 5365 MB             ; 00:00:08                           ;
-; Timing Analyzer      ; 00:00:06     ; 1.0                     ; 5393 MB             ; 00:00:06                           ;
-; Total                ; 00:00:53     ; --                      ; --                  ; 00:01:33                           ;
+; Analysis & Synthesis ; 00:00:09     ; 1.0                     ; 4854 MB             ; 00:00:22                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4744 MB             ; 00:00:02                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4760 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4744 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4760 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4744 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4760 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4744 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4760 MB             ; 00:00:01                           ;
+; Total                ; 00:00:17     ; --                      ; --                  ; 00:00:31                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -106,9 +116,14 @@ https://fpgasoftware.intel.com/eula.
 ; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
 +----------------------+------------------+------------+------------+----------------+
 ; Analysis & Synthesis ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
-; Fitter               ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
-; Assembler            ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
-; Timing Analyzer      ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
+; EDA Netlist Writer   ; DESKTOP-FKR7IB1  ; Windows 10 ; 10.0       ; x86_64         ;
 +----------------------+------------------+------------+------------+----------------+
 
 
@@ -116,9 +131,14 @@ https://fpgasoftware.intel.com/eula.
 ; Flow Log ;
 ------------
 quartus_map --read_settings_files=on --write_settings_files=off BCD_COUNTER -c BCD_COUNTER
-quartus_fit --read_settings_files=off --write_settings_files=off BCD_COUNTER -c BCD_COUNTER
-quartus_asm --read_settings_files=off --write_settings_files=off BCD_COUNTER -c BCD_COUNTER
-quartus_sta BCD_COUNTER -c BCD_COUNTER
+quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off BCD_COUNTER -c BCD_COUNTER --vector_source="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf" --testbench_file="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/Waveform9.vwf.vt"
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/" BCD_COUNTER -c BCD_COUNTER
+quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off BCD_COUNTER -c BCD_COUNTER --vector_source="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf" --testbench_file="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/Waveform9.vwf.vt"
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/" BCD_COUNTER -c BCD_COUNTER
+quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off BCD_COUNTER -c BCD_COUNTER --vector_source="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf" --testbench_file="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/Waveform9.vwf.vt"
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/" BCD_COUNTER -c BCD_COUNTER
+quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off BCD_COUNTER -c BCD_COUNTER --vector_source="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf" --testbench_file="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/Waveform9.vwf.vt"
+quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/" BCD_COUNTER -c BCD_COUNTER
 
 
 

@@ -1,11 +1,11 @@
-Analysis & Synthesis Status : Successful - Wed Nov  5 21:06:43 2025
+Analysis & Synthesis Status : Successful - Wed Nov 12 19:55:12 2025
 Quartus Prime Version : 21.1.1 Build 850 06/23/2022 SJ Lite Edition
 Revision Name : BCD_COUNTER
-Top-level Entity Name : BCD_COUNTER
+Top-level Entity Name : TOW_DIGITS_BCD_COUNTER
 Family : Cyclone V
 Logic utilization (in ALMs) : N/A
-Total registers : 4
-Total pins : 6
+Total registers : 8
+Total pins : 12
 Total virtual pins : 0
 Total block memory bits : 0
 Total DSP Blocks : 0

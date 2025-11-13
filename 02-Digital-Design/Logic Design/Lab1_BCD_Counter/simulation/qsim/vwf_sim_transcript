@@ -1,0 +1,163 @@
+Determining the location of the ModelSim executable...
+
+Using: C:\intelFPGA\18.1\modelsim_ase\win32aloem
+
+To specify a ModelSim executable directory, select: Tools -> Options -> EDA Tool Options
+Note: if both Questa Intel FPGA Edition and ModelSim executables are available, Questa Intel FPGA Edition will be used.
+
+**** Generating the ModelSim Testbench ****
+
+quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off BCD_COUNTER -c BCD_COUNTER --vector_source="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf" --testbench_file="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/Waveform9.vwf.vt"
+
+TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+    Info: Copyright (C) 2022  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and any partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel FPGA IP License Agreement, or other applicable license
+    Info: agreement, including, without limitation, that your use is for
+    Info: the sole purpose of programming logic devices manufactured by
+    Info: Intel and sold by Intel or its authorized distributors.  Please
+    Info: refer to the applicable agreement for further details, at
+    Info: https://fpgasoftware.intel.com/eula.
+    Info: Processing started: Wed Nov 12 19:59:38 2025
+Info: Command: quartus_eda --gen_testbench --tool=modelsim_oem --format=verilog --write_settings_files=off BCD_COUNTER -c BCD_COUNTER --vector_source="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf" --testbench_file="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/Waveform9.vwf.vt"
+Info (119006): Selected device 5CGXFC7C7F23C8 for design "BCD_COUNTER"
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+
+Completed successfully. 
+
+Completed successfully. 
+
+**** Generating the functional simulation netlist ****
+
+quartus_eda --write_settings_files=off --simulation --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/" BCD_COUNTER -c BCD_COUNTER
+
+TBBmalloc: skip allocation functions replacement in ucrtbase.dll: unknown prologue for function _msize
+
+Info: *******************************************************************
+Info: Running Quartus Prime EDA Netlist Writer
+    Info: Version 21.1.1 Build 850 06/23/2022 SJ Lite Edition
+    Info: Copyright (C) 2022  Intel Corporation. All rights reserved.
+    Info: Your use of Intel Corporation's design tools, logic functions 
+    Info: and other software and tools, and any partner logic 
+    Info: functions, and any output files from any of the foregoing 
+    Info: (including device programming or simulation files), and any 
+    Info: associated documentation or information are expressly subject 
+    Info: to the terms and conditions of the Intel Program License 
+    Info: Subscription Agreement, the Intel Quartus Prime License Agreement,
+    Info: the Intel FPGA IP License Agreement, or other applicable license
+    Info: agreement, including, without limitation, that your use is for
+    Info: the sole purpose of programming logic devices manufactured by
+    Info: Intel and sold by Intel or its authorized distributors.  Please
+    Info: refer to the applicable agreement for further details, at
+    Info: https://fpgasoftware.intel.com/eula.
+    Info: Processing started: Wed Nov 12 19:59:39 2025
+Info: Command: quartus_eda --write_settings_files=off --simulation=on --functional=on --flatten_buses=off --tool=modelsim_oem --format=verilog --output_directory="F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/" BCD_COUNTER -c BCD_COUNTER
+Info (119006): Selected device 5CGXFC7C7F23C8 for design "BCD_COUNTER"
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (204019): Generated file BCD_COUNTER.vo in folder "F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim//" for EDA simulation tool
+Info: Quartus Prime EDA Netlist Writer was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4760 megabytes
+    Info: Processing ended: Wed Nov 12 19:59:40 2025
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+Completed successfully. 
+
+**** Generating the ModelSim .do script ****
+
+F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/BCD_COUNTER.do generated.
+
+Completed successfully. 
+
+**** Running the ModelSim simulation ****
+
+C:/intelFPGA/18.1/modelsim_ase/win32aloem/vsim -c -do BCD_COUNTER.do
+
+Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+
+
+# 10.5b
+
+
+# do BCD_COUNTER.do
+
+# ** Warning: (vlib-34) Library already exists at "work".
+
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+# Start time: 19:59:41 on Nov 12,2025
+# vlog -work work BCD_COUNTER.vo 
+
+# -- Compiling module TOW_DIGITS_BCD_COUNTER
+
+# 
+
+# Top level modules:
+# 	TOW_DIGITS_BCD_COUNTER
+
+# End time: 19:59:41 on Nov 12,2025, Elapsed time: 0:00:00
+
+# Errors: 0, Warnings: 0
+
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+# Start time: 19:59:41 on Nov 12,2025
+
+# vlog -work work Waveform9.vwf.vt 
+
+# -- Compiling module TOW_DIGITS_BCD_COUNTER_vlg_vec_tst
+
+# 
+
+# Top level modules:
+# 	TOW_DIGITS_BCD_COUNTER_vlg_vec_tst
+
+# End time: 19:59:41 on Nov 12,2025, Elapsed time: 0:00:00
+
+# Errors: 0, Warnings: 0
+
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.TOW_DIGITS_BCD_COUNTER_vlg_vec_tst 
+# Start time: 19:59:41 on Nov 12,2025
+# Loading work.TOW_DIGITS_BCD_COUNTER_vlg_vec_tst
+# Loading work.TOW_DIGITS_BCD_COUNTER
+# Loading cyclonev_ver.cyclonev_io_obuf
+# Loading cyclonev_ver.cyclonev_io_ibuf
+# Loading cyclonev_ver.cyclonev_lcell_comb
+# Loading altera_ver.dffeas
+# Loading altera_ver.PRIM_GDFF_LOW
+
+# after#25
+
+# ** Note: $finish    : Waveform9.vwf.vt(65)
+#    Time: 1 us  Iteration: 0  Instance: /TOW_DIGITS_BCD_COUNTER_vlg_vec_tst
+
+# End time: 19:59:41 on Nov 12,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+
+Completed successfully. 
+
+**** Converting ModelSim VCD to vector waveform ****
+
+Reading F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/Waveform9.vwf...
+
+Reading F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/BCD_COUNTER.msim.vcd...
+
+Processing channel transitions... 
+
+Writing the resulting VWF to F:/ITI 9 Months/ITI-9Months-DigitalIC/02-Digital-Design/Logic Design/Lab1_BCD_Counter/simulation/qsim/BCD_COUNTER_20251112195941.sim.vwf
+
+Finished VCD to VWF conversion.
+
+Completed successfully. 
+
+All completed.

@@ -77,7 +77,7 @@ public:
 // =====================================================
 // ================= Square Class =======================
 // =====================================================
-class Square : public GeoShape
+class Square : protected GeoShape
 {
 public:
     Square() : GeoShape()
@@ -95,6 +95,11 @@ public:
         cout << "\nSquare destructor is called." << endl;
     }
 
+    void set_Dim (float d){
+        SetDim1 (d);
+        SetDim2 (d);
+    }
+
     float CalcArea()
     {
         cout << "\nSquare CalcArea called" << endl;
@@ -105,7 +110,7 @@ public:
 // =====================================================
 // ================= Circle Class =======================
 // =====================================================
-class Circle : public GeoShape
+class Circle : protected GeoShape
 {
 public:
     Circle() : GeoShape()
@@ -123,11 +128,16 @@ public:
         cout << "\nCircle destructor is called." << endl;
     }
 
+    void set_Rad (float r){
+        SetDim1 (r);
+        SetDim2 (r);
+    }
+
     float CalcArea()
     {
         cout << "\nCircle CalcArea called" << endl;
-        float r = GetDim1();
-        return 3.14159f * r * r;
+        ///float r = GetDim1();
+        return 3.14159f * GetDim1() * GetDim1();
     }
 };
 
@@ -170,6 +180,8 @@ int main()
     cout << "\nRectangle Area = " << R1.CalcArea() << endl;
 
     Square S1(7);
+    ///S1.SetDim1(9); /// not accessable
+    S1.set_Dim (9);
     cout << "\nSquare Area = " << S1.CalcArea() << endl;
 
     Circle C1(4);
